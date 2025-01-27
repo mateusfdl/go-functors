@@ -1,1 +1,3 @@
-# This repo contains all my functors implementation around Golang generators/iter
+# Go functors
+
+This repo contains all my functors implementation around Golang generators/iter
